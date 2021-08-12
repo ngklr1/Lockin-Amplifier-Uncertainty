@@ -10,7 +10,7 @@ coaxial cable. Measurement of the sample resistor was performed in A-B mode of t
 displayed as voltages except for the internal oscillator voltage sweep where the voltage measurement was converted
 to resistance.
 
-Questions
+Questions:
     What is the optimal internal oscillator voltage based on the uncertainty profile?
     What is the optimal internal oscillator frequency based on the noise profile?
     What is the optimal time constant based on the uncertainty profile?
